@@ -1,4 +1,4 @@
 # pizza
 The first open-source pizza
 
-![Bask in her glory](https://imgur.com/r/Pizza/HpLoRyM)
+![Bask in her glory](https://i.imgur.com/HpLoRyM.jpg)
